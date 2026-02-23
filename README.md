@@ -24,7 +24,19 @@ Configure the pull request:
 - Click "Create pull request".
 - Copy the Pull Request URL to submit in TalentLMS
 
+
 4. The autograder runs automatically — check the PR for results
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+## About
+
+My name is Ibrahim Miqdadi. This repository contains my prework projects for LevelUp Applied AI. it Includes exercises and setups to get started with Git and coding workflows.
+
+
+## Setup
+
+```bash
+https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-Miqdadi01.git
+cd prework-day-1-and-2-Miqdadi01
