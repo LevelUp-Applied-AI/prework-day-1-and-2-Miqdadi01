@@ -1,8 +1,7 @@
-# Device Check — [Your Name]
-
+# Device Check — [Ibrahim Miqdadi]
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [YYYY-MM-DD]
-**GitHub username:** [your-github-username]
+**Date completed:** [2026-02-23]
+**GitHub username:** [Miqdadi01]
 
 ---
 
@@ -10,36 +9,32 @@
 
 | Specification | Your value |
 |---------------|------------|
-| Operating System | (e.g., Windows 11 22H2, macOS 14.4, Ubuntu 22.04) |
-| OS Build / Version | |
-| RAM | (e.g., 16 GB) |
-| CPU Model | (e.g., Intel Core i7-12700H, Apple M2) |
-| CPU Cores | |
-| Free Disk Space | (e.g., 45 GB free) |
-| Internet Speed (Download) | (from speedtest.net — Mbps) |
+| Operating System | macOS 15.1 |
+| OS Build / Version | 24B83 |
+| RAM | 8 GB |
+| CPU Model | Apple M1 Chip |
+| CPU Cores | 8 cores (4 performance + 4 efficiency) |
+| Free Disk Space | 27 GiB free |
+| Internet Speed (Download) | 316.66 Mbps |
 
 ---
 
 ## Evidence Checklist
+![99F27641-3C0F-4B9A-A0C7-3834BEF52D0A_1_105_c](https://github.com/user-attachments/assets/7ca1b5f1-a8a6-4254-8a1f-2c3a42f12819)
+![7EDC0C57-C11A-4361-B7C2-022FA31788A2](https://github.com/user-attachments/assets/650856ea-4fb2-49d6-9703-8c071c1cd9d7)
+![F1DD43DF-0A79-483C-B380-67277BE94875_1_105_c](https://github.com/user-attachments/assets/86a93059-97a8-4292-bc5f-72545b4f19cd)
+![3655F0FA-0C28-4E52-8511-3B297B3B104B_1_105_c](https://github.com/user-attachments/assets/0ccf9efb-4557-4048-9bc4-0ee400e9f6b1)
 
-- [ ] Screenshot: OS version
-- [ ] Screenshot: RAM and CPU details
-- [ ] Screenshot: Free disk space
-- [ ] Screenshot: Internet speed test result
-- [ ] Screenshot: Admin rights confirmed
-
-**Windows only:**
-- [ ] Screenshot: `wsl -l -v` output showing WSL 2
-- [ ] Screenshot: `wsl --status` output
 
 ---
 
 ## Admin Rights Confirmation
 
-**Result:** [Paste command output, or write "Confirmed via System Settings"]
+[Confirmed via System Settings]
 
 ---
 
 ## Device Notes
 
-[Any device issues, constraints, or concerns. Write "None" if everything checks out.]
+[None]
+
